@@ -6,6 +6,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
+---
 
 <div align="center">
 
@@ -17,6 +18,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
+---
 
 <div align="center">
 
@@ -50,6 +52,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
+---
 
 <div align="center">
 
@@ -58,10 +61,16 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 <div style="display: inline-block; width: 100%; text-align: center;">
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
 		<h3>😺 Pet Social Media</h3>
-		<p>The first social media where solely pets can finally profit from absolute human captivation</p>
+		<p>The first social media where soley pets can finally profit from absolute human captivation</p>
 		<p><strong>Tech:</strong> Python (Flask) • HTML5 • CSS3 • JavaScript • SQLite • Google Cloud SQL</p>
 		<p><a href="https://github.com/ConnorKnoetze/Pet_Social_Media">View →</a></p>
 	</div>
+	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+        <h3>🍜 Recipes Website</h3>
+        <p>Compsci 235 full stack Recipes website developed 60 days using agile methodologies</p>
+        <p><strong>Tech:</strong>Python (Flask) • HTML5 • CSS3 • SQLite</p>
+        <p><a href="https://github.com/ConnorKnoetze/235-recipe-website">View →</a></p>
+    </div>
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
 		<h3>🔒 Password Manager</h3>
 		<p>My password manager that locally stores and encrypts passwords for enhanced security</p>
@@ -99,6 +108,6 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div align="center">
 
-*It always seems impossible until it's done. - Nelson Mandela* 
+> *It always seems impossible until it's done. - Nelson Mandela*
 
 </div>
