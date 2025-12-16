@@ -64,6 +64,6 @@ I'm a developer passionate about building clean, efficient solutions.
 
 <div align="center">
 
-*Always learning, always growing.*
+> *It always seems impossible until it's done. - Nelson Mandela*
 
 </div>
