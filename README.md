@@ -39,26 +39,6 @@ Other experiments: [235-recipe-website](https://github.com/ConnorKnoetze/235-rec
 ---
 
 ## GitHub stats
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorKnoetze&show_icons=true&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorKnoetze&hide_border=true&layout=compact)
 
----
 
-## How you can help me improve this profile
-- Pin 4–6 repos that best represent your current skill set (I recommend: AES-256-CBC, Password_Manager, Pet_Social_Media, Image-Filters, connorknoetze.com).  
-- Add short demo GIFs/screenshots to the READMEs of Pet_Social_Media and Image-Filters. Visuals increase credibility.  
-- For AES-256-CBC and Password_Manager: add a short security note/threat model and instructions to reproduce builds/tests.  
-- Add a resume PDF to this repo (e.g., `ConnorKnoetze-Resume.pdf`) and link it under Resume.
-
----
-
-## Resume
-You can add a resume to this repo and link it here: `https://github.com/ConnorKnoetze/ConnorKnoetze/raw/main/ConnorKnoetze-Resume.pdf`
-
----
-
-If you want, I can:
-1. Create this README file in your profile repo and commit it for you, or
-2. Customize the copy further (shorter/longer), add emojis, or create demo GIFs for any of the repos.
-
-Which would you like me to do next?
