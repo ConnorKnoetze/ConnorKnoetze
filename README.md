@@ -36,43 +36,30 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 ---
 
-## 💻 Projects
-
 <div align="center">
 
 ## 💻 Projects
 
-<table width="100%">
-<tr>
-<td width="33%">
-
-### 🎯 Project 1
-Brief description  
-**Tech:** React • Node.js
-
-[View →](https://github.com/ConnorKnoetze/project-1)
-
-</td>
-<td width="33%">
-
-### 🎨 Project 2
-Brief description  
-**Tech:** Python • Django
-
-[View →](https://github.com/ConnorKnoetze/project-2)
-
-</td>
-<td width="33%">
-
-### ⚡ Project 3
-Brief description  
-**Tech:** JavaScript • CSS
-
-[View →](https://github.com/ConnorKnoetze/project-3)
-
-</td>
-</tr>
-</table>
+<div style="display: inline-block; width: 100%; text-align: center;">
+	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+		<h3>🎯 Project 1</h3>
+		<p>Brief description</p>
+		<p><strong>Tech:</strong> React • Node.js</p>
+		<p><a href="https://github.com/ConnorKnoetze/project-1">View →</a></p>
+	</div>
+	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+		<h3>🎨 Project 2</h3>
+		<p>Brief description</p>
+		<p><strong>Tech:</strong> Python • Django</p>
+		<p><a href="https://github.com/ConnorKnoetze/project-2">View →</a></p>
+	</div>
+	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+		<h3>⚡ Project 3</h3>
+		<p>Brief description</p>
+		<p><strong>Tech:</strong> JavaScript • CSS</p>
+		<p><a href="https://github.com/ConnorKnoetze/project-3">View →</a></p>
+	</div>
+</div>
 
 </div>
 
