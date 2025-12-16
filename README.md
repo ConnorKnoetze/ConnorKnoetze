@@ -8,9 +8,9 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 ---
 
-## 🔗 Let's Connect 🔗
-
 <div align="center">
+
+## 🔗 Let's Connect 🔗
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/connorknoetze)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:connorknoetze@gmail.com)
