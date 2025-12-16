@@ -10,7 +10,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div align="center">
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies 🛠️
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,7 +38,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div align="center">
 
-## 💻 My Favourite Projects
+## 💻 My Favourite Projects 💻
 
 <div style="display: inline-block; width: 100%; text-align: center;">
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
@@ -82,7 +82,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Let's Connect 🔗
 
 <div align="center">
 
