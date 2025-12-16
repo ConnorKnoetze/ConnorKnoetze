@@ -6,7 +6,6 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
----
 
 <div align="center">
 
@@ -18,7 +17,6 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
----
 
 <div align="center">
 
@@ -52,7 +50,6 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
----
 
 <div align="center">
 
