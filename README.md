@@ -105,6 +105,6 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div align="center">
 
-> *It always seems impossible until it's done. - Nelson Mandela*
+*It always seems impossible until it's done. - Nelson Mandela*
 
 </div>
