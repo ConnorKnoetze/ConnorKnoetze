@@ -42,22 +42,22 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div style="display: inline-block; width: 100%; text-align: center;">
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
-		<h3>🎯 Project 1</h3>
-		<p>Brief description</p>
-		<p><strong>Tech:</strong> React • Node.js</p>
-		<p><a href="https://github.com/ConnorKnoetze/project-1">View →</a></p>
+		<h3>🎨 Pet Social Media</h3>
+		<p>The first social media where pets can finally profit from absolute human captivation</p>
+		<p><strong>Tech:</strong> Python (Flask) • SQLite • Google Cloud SQL</p>
+		<p><a href="https://github.com/ConnorKnoetze/Pet_Social_Media">View →</a></p>
 	</div>
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
-		<h3>🎨 Project 2</h3>
-		<p>Brief description</p>
-		<p><strong>Tech:</strong> Python • Django</p>
-		<p><a href="https://github.com/ConnorKnoetze/project-2">View →</a></p>
-	</div>
-	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
-		<h3>⚡ Project 3</h3>
-		<p>Brief description</p>
-		<p><strong>Tech:</strong> JavaScript • CSS</p>
+		<h3>⚡ Password Manager</h3>
+		<p>My password manager that locally stores and encrypts passwords for enhanced security</p>
+		<p><strong>Tech:</strong> Java • Swing • AES-256-CBC</p>
 		<p><a href="https://github.com/ConnorKnoetze/project-3">View →</a></p>
+	</div>
+    <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+		<h3>🎯 Portfolio Website</h3>
+		<p>My portfolio website built with modern technologies and standards</p>
+		<p><strong>Tech:</strong> Next.js • TypeScript • Tailwind CSS • Neon • Vercel</p>
+		<p><a href="https://github.com/ConnorKnoetze/connorknoetze.com">View →</a></p>
 	</div>
 </div>
 
