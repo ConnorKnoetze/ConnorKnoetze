@@ -39,7 +39,9 @@ I'm a developer passionate about building clean, efficient solutions.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorKnoetze&layout=compact&theme=dark&hide_border=true)](https://github.com/ConnorKnoetze)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConnorKnoetze&theme=dark)](https://github.com/ConnorKnoetze)
+
+[![ConnorKnoetze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorKnoetze&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)](
 
 </div>
 
