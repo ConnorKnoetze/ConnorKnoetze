@@ -54,6 +54,12 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 		<p><a href="https://github.com/ConnorKnoetze/Password_Manager">View →</a></p>
 	</div>
     <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+		<h3>👴 AES-256-CBC</h3>
+		<p>My implementation of the AES-256-CBC encryption algorithm in C</p>
+		<p><strong>Tech:</strong> C • Makefile</p>
+		<p><a href="https://github.com/ConnorKnoetze/AES-256-CBC">View →</a></p>
+	</div>
+    <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
 		<h3>🎯 Portfolio Website</h3>
 		<p>My portfolio website built with modern technologies and standards</p>
 		<p><strong>Tech:</strong> Next.js • TypeScript • Tailwind CSS • Neon • Vercel</p>
@@ -64,7 +70,13 @@ I'm a developer passionate about learning, understanding, and building clean, ef
         <p>A website that applies various filters to images using Pillow</p>
         <p><strong>Tech:</strong>Python (Flask) • Pillow • HTML5 • CSS3 • JavaScript</p>
         <p><a href="https://github.com/ConnorKnoetze/Image-Filters">View →</a></p>
-</div>
+    </div>
+    <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+        <h3>🖌️ Shared Paint Canvas</h3>
+        <p>A paint canvas made in pygame that allows users on the same network to draw together in real-time</p>
+        <p><strong>Tech:</strong>Python (Pygame)</p>
+        <p><a href="https://github.com/ConnorKnoetze/paint-pygame">View →</a></p>
+    </div>
 
 </div>
 
