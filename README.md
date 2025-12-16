@@ -1,44 +1,74 @@
-# Hi, I'm Connor 👋
+<div align="center">
 
-Full‑stack web developer (Flask) • Systems & cryptography enthusiast • Java & C tinkerer
+# Hi there 👋
 
-I build pragmatic web apps and backend systems — and I enjoy digging into low‑level code and crypto. Below are a few highlights of my work; feel free to explore the repos and get in touch.
+I'm a developer passionate about building clean, efficient solutions.
 
-- 🔭 Currently: building [Pet_Social_Media](https://github.com/ConnorKnoetze/Pet_Social_Media) — a full‑stack Flask app for sharing pet profiles and posts.
-- ⚙️ Systems & crypto: implemented AES‑256‑CBC in C for use in local apps and experiments.
-- 🛠️ Tools I use: Flask · Python · C · Java · JavaScript · Docker · GitHub Actions
-- 📫 Contact: connorknoetze@gmail.com · [LinkedIn](https://www.linkedin.com/in/connorknoetze) · [Portfolio](https://connorknoetze.com)
+</div>
 
 ---
 
-## Tech stack
-**Languages:** Python · C · Java · JavaScript · TypeScript  
-**Web:** Flask · HTML · CSS · Jinja  
-**Tools:** PyTest · Swing · Pygame (GUI experiments) · GitHub Actions · Make  
-**Topics I care about:** security, encryption, systems programming, web UX, test automation
+## 📊 Stats
+
+<div align="center">
+
+![stats](https://github-readme-stats.vercel.app/api?username=ConnorKnoetze&show_icons=true&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
-## Selected projects
+## 🛠️ Skills & Technologies
 
-- [AES-256-CBC](https://github.com/ConnorKnoetze/AES-256-CBC) — C implementation of AES‑256 in CBC mode built for a password manager app. Low‑level, portable, and educational.  
-- [Password_Manager](https://github.com/ConnorKnoetze/Password_Manager) — Java Swing password manager that uses the AES implementation to encrypt and locally store credentials. Focus on local security and usability.  
-- [Pet_Social_Media](https://github.com/ConnorKnoetze/Pet_Social_Media) — Full‑stack web app built with Flask (Python) and a JS/CSS frontend. Shows backend design, auth, media uploads, and relational data.  
-- [Image-Filters](https://github.com/ConnorKnoetze/Image-Filters) — Flask + Pillow app that lets users upload images and apply filters server‑side (good demo of file handling and image processing).  
-- [connorknoetze.com](https://github.com/ConnorKnoetze/connorknoetze.com) — My portfolio website built with modern TypeScript tooling.
+<div align="center">
 
-Other experiments: [235-recipe-website](https://github.com/ConnorKnoetze/235-recipe-website), [E2EE-Local-Group-Chat-App](https://github.com/ConnorKnoetze/E2EE-Local-Group-Chat-App), [paint-pygame](https://github.com/ConnorKnoetze/paint-pygame)
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## Highlights & practices
-- I write tests and use CI where practical — reproducible builds and passing pipelines are important to me.  
-- For public tools and libraries: clear README, example usage, and licensed code.  
-- For security projects: documented threat model and notes on limitations (every crypto project should include this).
+## 📈 GitHub Stats
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorKnoetze&layout=compact&theme=dark&hide_border=true)](https://github.com/ConnorKnoetze)
+
+</div>
 
 ---
 
-## GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorKnoetze&hide_border=true&layout=compact)
+## 🔗 Let's Connect
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/connorknoetze)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:connorknoetze@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://connorknoetze.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always learning, always growing.*
+
+</div>
