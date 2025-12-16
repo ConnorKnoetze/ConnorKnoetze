@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there 👋
+# Hi there im Connor 👋
 
-I'm a developer passionate about building clean, efficient solutions.
+I'm a developer passionate about learning, understanding, and building clean, efficient solutions.
 
 </div>
 
