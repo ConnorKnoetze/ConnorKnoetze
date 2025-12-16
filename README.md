@@ -67,7 +67,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 	</div>
     <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
         <h3>🖼️ Image Filters Website</h3>
-        <p>A website that applies various filters to images using Pillow</p>
+        <p>A website that allows users to apply various filters to images using Pillow</p>
         <p><strong>Tech:</strong>Python (Flask) • Pillow • HTML5 • CSS3 • JavaScript</p>
         <p><a href="https://github.com/ConnorKnoetze/Image-Filters">View →</a></p>
     </div>
