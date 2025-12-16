@@ -42,7 +42,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 ## 💻 Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%">
 
