@@ -38,25 +38,41 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 ## 💻 Projects
 
-<div align="center" style="display:flex; flex-direction:row; gap:20px;">
+<div align="center">
 
-<div>
-    ### 🎯 [Project Name](https://github.com/ConnorKnoetze/project-1)
-    Brief description of what it does  
-    **Tech:** React • Node.js • MongoDB
-</div>
+## 💻 Projects
 
-<div>
-    ### 🎨 [Project Name](https://github.com/ConnorKnoetze/project-2)
-    Brief description of what it does  
-    **Tech:** Python • Django • SQLite
-</div>
+<table>
+<tr>
+<td width="33%">
 
-<div>
-    ### ⚡ [Project Name](https://github.com/ConnorKnoetze/project-3)
-    Brief description of what it does  
-    **Tech:** JavaScript • HTML • CSS
-</div>
+### 🎯 Project 1
+Brief description  
+**Tech:** React • Node.js
+
+[View →](https://github.com/ConnorKnoetze/project-1)
+
+</td>
+<td width="33%">
+
+### 🎨 Project 2
+Brief description  
+**Tech:** Python • Django
+
+[View →](https://github.com/ConnorKnoetze/project-2)
+
+</td>
+<td width="33%">
+
+### ⚡ Project 3
+Brief description  
+**Tech:** JavaScript • CSS
+
+[View →](https://github.com/ConnorKnoetze/project-3)
+
+</td>
+</tr>
+</table>
 
 </div>
 
