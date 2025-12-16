@@ -35,13 +35,15 @@ I'm a developer passionate about building clean, efficient solutions.
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Projects
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConnorKnoetze&theme=dark)](https://github.com/ConnorKnoetze)
-
-[![ConnorKnoetze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorKnoetze&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)](
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [Project Name](https://github.com/ConnorKnoetze/project-1) | Brief description of what it does | React, Node.js, MongoDB |
+| [Project Name](https://github.com/ConnorKnoetze/project-2) | Brief description of what it does | Python, Django |
+| [Project Name](https://github.com/ConnorKnoetze/project-3) | Brief description of what it does | JavaScript, HTML, CSS |
 
 </div>
 
