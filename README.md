@@ -42,13 +42,13 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div style="display: inline-block; width: 100%; text-align: center;">
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
-		<h3>🎨 Pet Social Media</h3>
+		<h3>😺 Pet Social Media</h3>
 		<p>The first social media where pets can finally profit from absolute human captivation</p>
 		<p><strong>Tech:</strong> Python (Flask) • HTML5 • CSS3 • JavaScript • SQLite • Google Cloud SQL</p>
 		<p><a href="https://github.com/ConnorKnoetze/Pet_Social_Media">View →</a></p>
 	</div>
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
-		<h3>⚡ Password Manager</h3>
+		<h3>🔒 Password Manager</h3>
 		<p>My password manager that locally stores and encrypts passwords for enhanced security</p>
 		<p><strong>Tech:</strong> Java • Swing • AES-256-CBC</p>
 		<p><a href="https://github.com/ConnorKnoetze/Password_Manager">View →</a></p>
@@ -60,7 +60,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 		<p><a href="https://github.com/ConnorKnoetze/connorknoetze.com">View →</a></p>
 	</div>
     <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
-        <h3>📝 Image Filters Website</h3>
+        <h3>🖼️ Image Filters Website</h3>
         <p>A website that applies various filters to images using Pillow</p>
         <p><strong>Tech:</strong>Python (Flask) • Pillow • HTML5 • CSS3 • JavaScript</p>
         <p><a href="https://github.com/ConnorKnoetze/Image-Filters">View →</a></p>
