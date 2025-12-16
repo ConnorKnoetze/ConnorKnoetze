@@ -40,11 +40,17 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Project Name](https://github.com/ConnorKnoetze/project-1) | Brief description of what it does | React, Node.js, MongoDB |
-| [Project Name](https://github.com/ConnorKnoetze/project-2) | Brief description of what it does | Python, Django |
-| [Project Name](https://github.com/ConnorKnoetze/project-3) | Brief description of what it does | JavaScript, HTML, CSS |
+### 🎯 [Project Name](https://github.com/ConnorKnoetze/project-1)
+Brief description of what it does  
+**Tech:** React • Node.js • MongoDB
+
+### 🎨 [Project Name](https://github.com/ConnorKnoetze/project-2)
+Brief description of what it does  
+**Tech:** Python • Django
+
+### ⚡ [Project Name](https://github.com/ConnorKnoetze/project-3)
+Brief description of what it does  
+**Tech:** JavaScript • HTML • CSS
 
 </div>
 
