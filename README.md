@@ -24,6 +24,10 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java%20Swing](https://img.shields.io/badge/-Java%20Swing-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
