@@ -38,7 +38,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 ## 💻 Projects
 
-<div align="center">
+<div align="center" style="display:flex; flex-direction:row; gap:20px;">
 
 ### 🎯 [Project Name](https://github.com/ConnorKnoetze/project-1)
 Brief description of what it does  
