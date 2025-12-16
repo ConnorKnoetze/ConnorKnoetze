@@ -8,9 +8,9 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 ---
 
-## 🛠️ Skills & Technologies
-
 <div align="center">
+
+## 🛠️ Skills & Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
