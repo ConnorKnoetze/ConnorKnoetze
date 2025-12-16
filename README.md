@@ -38,7 +38,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 <div align="center">
 
-## 💻 Projects
+## 💻 My Favourite Projects
 
 <div style="display: inline-block; width: 100%; text-align: center;">
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
