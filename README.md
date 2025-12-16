@@ -64,7 +64,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 	</div>
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
         <h3>🍜 Recipes Website</h3>
-        <p>Compsci 235 full stack Recipes website developed 60 days using agile methodologies</p>
+        <p>Compsci 235 full stack recipes website developed 60 days using agile methodologies</p>
         <p><strong>Tech:</strong>Python (Flask) • HTML5 • CSS3 • SQLite</p>
         <p><a href="https://github.com/ConnorKnoetze/235-recipe-website">View →</a></p>
     </div>
