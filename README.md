@@ -50,14 +50,6 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
-<!--## My coding stats
-
-  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/73a679e9-c642-449d-a70c-f4dff787c8f6.svg" align="top" /></a>
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
--->
-
-<a href="https://wakatime.com/@ConnorKnoetze#gh-light-mode-only"><img src="https://wakatime.com/share/@ConnorKnoetze/f5524775-e594-4333-ab62-19f1be1f3216.svg" align="top" /></a>
-<a href="https://wakatime.com/@ConnorKnoetze#gh-dark-mode-only"><img src="https://wakatime.com/share/@ConnorKnoetze/824dec4f-c076-4643-810a-0fa187eb2d85.svg" align="top" /></a>
 
 <div align="center">
 
