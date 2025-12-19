@@ -17,8 +17,8 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 
 </div>
 
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/f5524775-e594-4333-ab62-19f1be1f3216.svg" align="top" /></a>
-<a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/824dec4f-c076-4643-810a-0fa187eb2d85.svg" align="top" /></a>
+<a href="https://wakatime.com/@ConnorKnoetze#gh-light-mode-only"><img src="https://wakatime.com/share/@ConnorKnoetze/f5524775-e594-4333-ab62-19f1be1f3216.svg" align="top" /></a>
+<a href="https://wakatime.com/@ConnorKnoetze#gh-dark-mode-only"><img src="https://wakatime.com/share/@ConnorKnoetze/824dec4f-c076-4643-810a-0fa187eb2d85.svg" align="top" /></a>
 
 <div align="center">
 
