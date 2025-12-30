@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there im Connor 👋
+# Hi there I'm Connor 👋
 
 I'm a developer passionate about learning, understanding, and building clean, efficient solutions.
 
