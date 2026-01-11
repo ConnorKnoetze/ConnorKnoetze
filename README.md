@@ -82,7 +82,7 @@ I'm a developer passionate about learning, understanding, and building clean, ef
     <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
 		<h3>🎯 Portfolio Website</h3>
 		<p>My portfolio website built with modern technologies and standards</p>
-		<p><strong>Tech:</strong> Next.js • TypeScript • Tailwind CSS • Neon • Vercel</p>
+		<p><strong>Tech:</strong> Next.js • JavaScript • Tailwind CSS • Vercel</p>
 		<p><a href="https://github.com/ConnorKnoetze/connorknoetze.com">View →</a></p>
 	</div>
     <div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
