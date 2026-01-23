@@ -62,6 +62,12 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 		<p><a href="https://github.com/ConnorKnoetze/Pet_Social_Media">View →</a></p>
 	</div>
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
+        <h3>🏪 Shopping List Helper</h3>
+        <p>A full stack web tool for creating shopping lists and picking weekly recipes from a large dataset</p>
+        <p><strong>Tech:</strong>Python (Flask) • HTML5 • CSS3 • SQLite</p>
+        <p><a href="https://github.com/ConnorKnoetze/shopping-list-helper">View →</a></p>
+    </div>
+	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
         <h3>🍜 Recipes Website</h3>
         <p>Compsci 235 full stack recipes website developed 60 days using agile methodologies</p>
         <p><strong>Tech:</strong>Python (Flask) • HTML5 • CSS3 • SQLite</p>
