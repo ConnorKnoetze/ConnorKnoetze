@@ -58,13 +58,13 @@ I'm a developer passionate about learning, understanding, and building clean, ef
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
 		<h3>😺 Pet Social Media</h3>
 		<p>The first social media where soley pets can finally profit from absolute human captivation</p>
-		<p><strong>Tech:</strong> Python (Flask) • HTML5 • CSS3 • JavaScript • SQLite • Google Cloud SQL</p>
+		<p><strong>Tech:</strong> Python (Flask) • HTML5 • CSS3 • JavaScript • SQLite • Supabase PostgreSQL</p>
 		<p><a href="https://github.com/ConnorKnoetze/Pet_Social_Media">View →</a></p>
 	</div>
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
         <h3>🏪 Shopping List Helper</h3>
         <p>A full stack web tool for creating shopping lists and picking weekly recipes from a large dataset</p>
-        <p><strong>Tech:</strong>Python (Flask) • HTML5 • CSS3 • SQLite</p>
+        <p><strong>Tech:</strong>Python (Flask) • HTML5 • CSS3 • JavaScript • SQLAlchemy • Railway • PostgreSQL</p>
         <p><a href="https://github.com/ConnorKnoetze/shopping-list-helper">View →</a></p>
     </div>
 	<div style="display: inline-block; width: 30%; min-width: 240px; margin: 0 1%; vertical-align: top;">
